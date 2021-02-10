@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TeamRanking</string>
+    <string name="_01">01</string>
+    <string name="nombre">Juan Alejandro Rosa</string>
+    <string name="listado_de_jugadores">Listado de Jugadores</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
